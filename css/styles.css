@@ -4,10 +4,19 @@
   }
 
 .animal-profile {
-  margin: 12px;
+  column-count: 5;
+  column-gap: 50px;
+  column-rule-style: solid;
+  column-rule-width: auto;
+  
+  /* margin: 12px;
   border: 2px solid red;
   padding: 4px;
   background-color: black;
   box-sizing: border-box;
-  float: center;
+  float: center; */
+}
+
+.h2 {
+  column-span: all;
 }
