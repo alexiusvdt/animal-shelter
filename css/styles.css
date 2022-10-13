@@ -1,0 +1,13 @@
+.body {
+  font-family: monospace;
+  background: black;
+  }
+
+.animal-profile {
+  margin: 12px;
+  border: 2px solid red;
+  padding: 4px;
+  background-color: black;
+  box-sizing: border-box;
+  float: center;
+}
