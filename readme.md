@@ -1,8 +1,8 @@
-# _{Application Name}_
+# Animal Shelter
 
-#### By _**{List of contributors}**_
+#### By Alex Johnson & Kirsten Opstad
 
-#### _{Brief description of application}_
+#### Animal Shelter Site for Baby Dinos (practice)
 
 ## Technologies Used
 
@@ -13,7 +13,12 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+### Objectives
+* Create a new web page for an animal shelter. List out the animals available to be adopted, including pictures and descriptions of each animal. Have at least 3-5 animals listed. Don't forget to set up a git repository, make frequent commits and push to a remote repository on GitHub.
+* Display each animal's "profile" in a column.
+* Change the styles of elements nested within the columns using the idea of cascading.
+* Find other places in your web pages where you can change elements on the page according to cascading precedence.
+* Center some elements on the page.
 
 ## Setup/Installation Requirements
 
