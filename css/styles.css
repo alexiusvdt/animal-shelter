@@ -1,6 +1,7 @@
-.body {
+body {
   font-family: monospace;
   background: black;
+  color: white;
   }
 
 .animal-profile {
@@ -17,6 +18,8 @@
   float: center; */
 }
 
-.h2 {
+h2 {
+  font-size: larger;
+  text-align: center;
   column-span: all;
 }
